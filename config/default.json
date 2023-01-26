@@ -1,0 +1,7 @@
+{
+  "serverPort": 5000,
+  "dbUrl": "mongodb+srv://admin:admin@cloud.0cqccsy.mongodb.net/cloud?retryWrites=true&w=majority",
+  "secretKey": "mern-secket-key",
+  "filePath": "E:\\Магистратура\\Магистерская\\final\\server\\files",
+  "staticPath": "E:\\Магистратура\\Магистерская\\final\\server\\static"
+}
